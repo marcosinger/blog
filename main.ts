@@ -9,6 +9,7 @@ blog({
   links: [
     { title: "GitHub", url: "https://github.com/marcosinger" },
     { title: "Twitter", url: "https://twitter.com/mahsinger" },
+    { title: "LinkedIn", url: "https://www.linkedin.com/in/marcosinger/" },
   ],
   timezone: "en-US",
   title: "Marco Singer",
